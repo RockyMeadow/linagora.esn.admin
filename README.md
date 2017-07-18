@@ -9,4 +9,4 @@ Check the documentation in [./doc](./doc).
 
 ## Licence
 
-[Affero GPL v3](http://www.gnu.org/licenses/agpl-3.0.html)
+[Affero GPL v3](http://www.gnu.org/licenses/agpl-3.0.html)Testing
